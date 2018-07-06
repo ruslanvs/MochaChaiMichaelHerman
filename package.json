@@ -1,0 +1,24 @@
+{
+  "name": "MochaChaiMichaelHerman",
+  "version": "1.0.0",
+  "description": "Testing with Mocha and Chai by Michael Herman: http://mherman.org/blog/2015/09/10/testing-node-js-with-mocha-and-chai/#.WvsXStMvzy8",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruslanvs/MochaChaiMichaelHerman.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruslanvs/MochaChaiMichaelHerman/issues"
+  },
+  "homepage": "https://github.com/ruslanvs/MochaChaiMichaelHerman#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
